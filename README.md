@@ -14,19 +14,7 @@ Python: Linguagem de programação principal.
 Pandas: Manipulação e análise de dados.
 Numpy: Operações matemáticas e manipulação de arrays.
 Matplotlib e Seaborn: Visualização de dados.
-Como Executar o Projeto
-Clone este repositório:
-bash
-Copiar código
-git clone https://github.com/seuusuario/saude-analise.git
-Instale as dependências:
-bash
-Copiar código
-pip install -r requirements.txt
-Execute o script principal para visualizar a análise:
-bash
-Copiar código
-python saude_analise.py
+
 Estrutura do Projeto
 saude_analise.py: Script principal que executa o processo de análise e gera visualizações.
 requirements.txt: Lista de dependências.
